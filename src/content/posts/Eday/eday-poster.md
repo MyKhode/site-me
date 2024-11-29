@@ -2,7 +2,7 @@
 title: RUPP Engineering Day in 2024
 published: 2024-26-10
 description: 'Topic Optimizing Realistic Rendering Real-time Sync Racing Game'
-image: 'https://scontent.fpnh8-3.fna.fbcdn.net/v/t39.30808-6/464731069_535641715878356_158676950817390554_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFw9D0RnXE7GJVaxCJPOmoGAQ-GewMOkrMBD4Z7Aw6Ss_37WfZ24wAdfuc3mwpCRQR_u7VUafwXLRs-aqLuKfeO&_nc_ohc=HJ7iMss6KPcQ7kNvgHaMs2q&_nc_zt=23&_nc_ht=scontent.fpnh8-3.fna&_nc_gid=A7ptVqpEW3NCMQSobZOTxaA&oh=00_AYCGcSHLXMWclqN0yn8R0pqIjSazZP5Ql_B6cP_9RD_IbA&oe=674A73B6'
+image: 'https://scontent-nrt1-2.xx.fbcdn.net/v/t39.30808-6/465249761_539139318861929_8593089022653642500_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEvLB5yAjN_efnGcqMID0rB5205Toc1txznbTlOhzW3HGaEGk0pWxOSxTmHyuZfAPP-s-m4Chp0oGTFGc_9aHgN&_nc_ohc=5w2JZeW__5kQ7kNvgF77qkc&_nc_zt=23&_nc_ht=scontent-nrt1-2.xx&_nc_gid=AS8M7ML7xerkuctGzgSyLxr&oh=00_AYChAGvJxqifNvDFk2zZqIrcHtGm4B-NId1vyhO3_QyCxw&oe=674F4C74'
 tags: [ 
     "Project Practicum",
     "RUPP ITE Project",
