@@ -12,7 +12,7 @@ category: 'Code'
 draft: false
 ---
 
-```
+```csharp
 using UnityEngine;
 using System.Text;
 using GooglePlayGames;
