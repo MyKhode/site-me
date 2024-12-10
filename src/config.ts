@@ -21,7 +21,7 @@ export const siteConfig: SiteConfig = {
     credit: {
       enable: true,         // Display the credit text of the banner image
       text: 'Ikhode Studio Official Socialization',              // Credit text to be displayed
-      url: 'https://www.facebook.com/IkhodeStation/'                // (Optional) URL link to the original artwork or artist's page
+      url: 'https://www.facebook.com/IkhodeStudio/'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   toc: {
@@ -56,11 +56,11 @@ export const profileConfig: ProfileConfig = {
   bio: "I'm a indie game developer from Cambodia.",
   links: [
     {
-      name: 'Twitter',
+      name: 'Discord',
       icon: 'fa6-brands:discord',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://x.com/IkhodeStation',
+      url: 'https://discord.com/invite/ySCGdyArHb',
     },
     {
       name: 'Steam',
@@ -70,7 +70,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: '',
+      url: 'https://github.com/Ikhode-Technologies',
     },
   ],
 }

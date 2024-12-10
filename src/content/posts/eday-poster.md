@@ -1,6 +1,6 @@
 ---
 title: RUPP Engineering Day in 2024
-published: 2024-26-10
+published: 2024-10-24
 description: 'Topic Optimizing Realistic Rendering Real-time Sync Racing Game'
 image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq5WIBpJoYH9_MQLskxC53SnUR7TsNg6BC5A&s'
 tags: [ 
